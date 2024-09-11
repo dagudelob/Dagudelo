@@ -1,2 +1,7 @@
 esta es la cabecera actualizada a las 3:37
 estoy en master
+Esta es historia arreglada de David Agudelo 
+
+son las 3.48 pm 
+
+estoy en la rama cabecera trabajando en la historia
